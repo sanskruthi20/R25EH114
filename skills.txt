@@ -1,0 +1,8 @@
+Programming:
+- C
+- Python
+
+Areas of Interest:
+- Artificial Intelligence
+- Data Science
+- Software Development
