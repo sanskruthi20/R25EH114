@@ -1,0 +1,4 @@
+Projects:
+1. Smart Real-Time Monitoring and Inspection Mobile App
+2. Road Condition Detection using AI
+3. Student Portfolio Website
